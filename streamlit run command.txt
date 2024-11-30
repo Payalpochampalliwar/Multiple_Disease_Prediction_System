@@ -1,0 +1,1 @@
+streamlit run "C:\Users\sneha\Downloads\Disease_Project\multiple disease prediction.py"
